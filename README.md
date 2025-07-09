@@ -52,16 +52,20 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LucasPereiraM/LucasPereiraM/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="right">
   <a href="https://open.spotify.com/user/12153932077">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12153932077&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPereiraM/LucasPereiraM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasPereiraM/LucasPereiraM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasPereiraM/LucasPereiraM/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
